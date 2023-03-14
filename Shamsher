@@ -1,1 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-14">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UOL</title>
+    <link rel="stylesheet" href="css/all.css">
+</head>
+<body>
+    <div>
+        <h1>The University of Lahore</h1><br>
+        <hr>
+        <h2>Department Of Technology</h2>
+        <h2>Machine Learning operations</h2>
+        <h3>Embeded Lab</h3>
+        <p>Shamsher</p>
+        <h2>BMT Book </h2>
+    </div>
+    <div>
+        <a href="mailto:jawadbaloch136@gmail.com">jawadbaloch136@gmail.com</a><br>
+        <a href="tel:0300-4401937">0300-4401937</a>
+    </div>
+    <div>
+        <table style="width:100%">
+            <tr>
+                <th>Experience</th>
+                <th>Education</th>
+                <th>Year Of Joining</th>
+            </tr>
+            <tr>
+                <td>University</td>
+                <td>Position Title</td>
+                <td>Year</td>
+            </tr>
+            <tr>
+                <td>UOL</td>
+                <td>Student</td>
+                <td>2023</td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>
 
